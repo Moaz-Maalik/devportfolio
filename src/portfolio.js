@@ -7,26 +7,26 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Hi! its Abdullah",
-  logo_name: "Abdullah Chaudhary",
+  title: "Hi! its Moaz",
+  logo_name: "Muhammad Moaz Maalik",
   nickname: "",
   subTitle:
-    "A full stack developer (MERN / MEVN) 💻 - A Community Builder 👨‍🏫 - Public Speaker 🎤",
+    "A full stack developer (MERN / MEVN / LAMP) 💻 - A Community Builder 👨‍🏫 - A Biker 🏍️",
   resumeLink:
     "https://drive.google.com/file/d/1bU2Ifkn877o9jP8qEO2AvsWTXe3oBWr_/view?usp=sharing",
-  portfolio_repository: "https://github.com/abdullah-ch/devportfolio",
+  portfolio_repository: "https://github.com/Moaz-Maalik/devportfolio",
 };
 
 const socialMediaLinks = [
   {
     name: "Stackoverflow",
-    link: "https://stackoverflow.com/users/13708712/abdullah-ch",
+    link: "https://stackoverflow.com/users/13170790/moaz-maalik",
     fontAwesomeIcon: "fa-stack-overflow", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#F48024", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "Github",
-    link: "https://github.com/abdullah-ch",
+    link: "https://github.com/Moaz-Maalik",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -38,26 +38,26 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link: "https://www.youtube.com/channel/UCNK0ZGO-8mnCGhtjUmFHyJg",
+    link: "https://www.youtube.com/channel/UCnG4K6jyNCbSEnTh6Xt6dRg",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
-    link: "mailto:abdullahchaudharry@gmail.com",
+    link: "mailto:muhammadmoazmaalik@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "Twitter",
-    link: "https://twitter.com/MAbdullahCh10",
+    link: "https://twitter.com/MoazMaalik",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
 
   {
     name: "Instagram",
-    link: "https://www.instagram.com/mrabdullahch/",
+    link: "https://www.instagram.com/moazmaalik/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -184,6 +184,13 @@ const skills = {
         },
         {
           skillName: "PHP",
+          fontAwesomeClassname: "simple-icons:php",
+          style: {
+            color: "black",
+          },
+        },
+        {
+          skillName: "PYTHON",
           fontAwesomeClassname: "simple-icons:php",
           style: {
             color: "black",

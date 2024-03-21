@@ -11,10 +11,10 @@ class Home extends Component {
     return (
       <div>
         <Helmet>
-          ‍<title>Abdullah Ch </title>‍
+          ‍<title>M.Moaz Maalik </title>‍
           <meta
             name="description"
-            content="Abdullah Ch (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Abdullah is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
+            content="M.Moaz Maalik is a Full Stack Developer, Public Speaker, and a student mentor. Moaz is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at FAST"
           />
           <meta name="twitter:site" content="@MAbdullahCh10" />{" "}
           <meta name="twitter:creator" content="@MAbdullahCh10" />{" "}

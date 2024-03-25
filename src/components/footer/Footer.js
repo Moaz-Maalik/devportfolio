@@ -20,7 +20,7 @@ export default function Footer(props) {
             }}
           >
             {" "}
-            Abdullah Ch
+            Moaz Maalik
           </a>
         </p>
         {/* <ToggleSwitch theme={props.theme} onToggle={props.onToggle} /> */}

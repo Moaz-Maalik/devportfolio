@@ -16,8 +16,7 @@ export default function Skills(props) {
             className="skills-description"
             style={{ color: theme.secondaryText }}
           >
-            I am a huge fan of startups and initiatives. Simply love to help
-            growing my clients' business
+            I really love startups and enjoy working in fast-paced settings.
             <span role="img" aria-label="hand-shake">
               🤝
             </span>

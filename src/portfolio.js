@@ -111,10 +111,12 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Proficient in full-stack web development with a focus on responsive web design using React JS, HTML/CSS and cool UI Libraries",
-        "⚡ Expertise in developing Single Page Rendering applications using Vue JS, React JS and Next JS with Design Patterns",
-        "⚡ Demonstrated ability in creating optimized application backends using Node JS, Express JS, and Nest Js.",
-        "⚡ Experienced in creating REST APIs using Best Practices",
+        "⚡ Proficient in front-end development technologies such as HTML, CSS, JavaScript, and modern frameworks like React JS, Next JS and Vue JS.",
+        "⚡ Skilled in back-end development using Node.js, Express.js, and Nest JS to build robust and scalable server-side applications.",
+        "⚡ Experienced in database management systems including SQL (e.g., PostgreSQL, MySQL) and NoSQL (e.g., MongoDB) databases.",
+        "⚡ Knowledgeable in RESTful API development and integration to enable seamless communication between front-end and back-end systems.",
+        "⚡ Familiarity with version control systems like Git and collaborative development workflows using platforms like GitHub.",
+        "⚡ Collaborative mindset with the capability to work in cross-functional teams and contribute to all stages of the development lifecycle",
       ],
 
       softwareSkills: [
@@ -191,7 +193,7 @@ const skills = {
         },
         {
           skillName: "PYTHON",
-          fontAwesomeClassname: "simple-icons:php",
+          fontAwesomeClassname: "ion-logo-python",
           style: {
             color: "black",
           },
@@ -279,8 +281,8 @@ const skills = {
       title: "UI/UX Design",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Proficiency in UI design tools like Adobe XD, Sketch, or Figma, with a focus on responsive design",
+        "⚡ Skilled in crafting visually appealing and intuitive user interfaces for both mobile and web applications",
         "⚡ Enabling engaging user experience for generating leads",
       ],
       softwareSkills: [
@@ -589,7 +591,7 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Software Engineer",
+          title: "Senior Software Engineer",
           company: "Dubizzle",
           company_url: "https://www.dubizzle.com/",
           logo_path: "abdullah-work/dubizzle-logo.png",
@@ -598,10 +600,10 @@ const experience = {
             alignItems: "center",
             justifyContent: "center",
           },
-          duration: "Jan 2023 - present",
+          duration: "Oct 2021 - present",
           location: "Hybrid",
           description:
-            "Designed and developed headless reusable components, decoupling the UI and the logic layers for better code maintainability and flexibility using React JS and Next JS. Improved code quality and maintainability by conducting component code refactoring and converting to TypeScript. Collaborated with cross-functional teams to develop effective software solutions, utilizing communication and problem-solving skills. Translated stakeholder requirements into actionable development plans for successful project outcomes ",
+            "• Collaborated with a team of developers to build modern, responsive web applications using Reactjs and Nextjs .\n• Designed and developed headless reusable components, decoupling the UI and the logic layers for better code maintainability and flexibility. Deployed these components across multiple projects, reducing bugs and streamliningdevelopment.\n• Optimized Webapp's bundle size by 40% with best practices such as code splitting, lazy loading and migrating to lightweight libraries causing faster load time.\n• Built Consumer web apps that are build with the best SEO practices i.e Implemented Server Side rendering ,URL shortening , Pretty URLs , sitemap generation for google to index our pages to optimize app performance and improve Lighthouse Scores.\n• Wrote content APIs in Strapi JS\n• Employing testing frameworks like Jest to rigorously test code, resulting in fewer bugs and higher overall app quality\n• Translated stakeholder requirements into actionable development plans for successful project outcomes.",
           color: "#0879bf",
         },
         {
@@ -617,16 +619,16 @@ const experience = {
           duration: "Sep 2021 - Jan 2023",
           location: "Remote Work",
           description:
-            "Optimized Webapp's bundle size by 15% through lazy loading, purging CSS, and migrating to lightweight libraries. Improved API security by implementing Refresh Token Rotation based Authentication with unique refresh tokens for each session using Node JS. Designed and implemented the mechanism, conducted thorough testing, and reduced the risk of data breaches. Designed and built a scalable WebSocket server with Node.js and the ws library, integrated with RabbitMQ for streaming real-time tickers' information and notifications.",
+            "• Developed and maintained a Vue.js-based website for stock trading, ensuring seamless user experience and high performance in a fast-paced trading environment.\n• Utilized Vue Router for navigation and Vuex for state management to maintain data consistency across components.\n• Integrated third-party APIs for real-time stock market data and implemented data visualization tools for analyzing market trends.",
           color: "#0879bf",
         },
 
         {
-          title: "Full Stack Software Engineer (MERN)",
-          company: "BigOSoft",
-          company_url: "https://bigosoft.us/",
-          logo_path: "abdullah-work/bigosoft-black.png",
-          duration: "April 2020 - Sep 2021",
+          title: "Software Engineer",
+          company: "GrocerApp",
+          company_url: "https://grocerapp.pk/",
+          logo_path: "grocerapp_logo.jpeg",
+          duration: "Mar 2019 - Oct 2021",
           location: "Remote Work",
           imageWrapperStyles: {
             display: "flex",
@@ -634,7 +636,7 @@ const experience = {
             justifyContent: "center",
           },
           description:
-            "Built reusable React components with decoupled logic and UI layers using Hooks, improving code maintainability and development efficiency. Contributed to React-based POS and website front-end development using TypeScript and Material UI,delivering high-quality, responsive interfaces through collaboration with cross-functional teams. Created efficient and scalable RESTful APIs to support seamless communication between systems, ensuring productivity and minimizing downtime",
+            "• Built and consumed RESTful APIs in Laravel PHP .\n• Wrote complex SQL queries for the admin dashboard to monitor business health, providing valuable data-driven insights for informed decision-making.\n• Built reusable Vue.js components with decoupled logic and UI layers improving code maintainability and development efficiency.\n• Implemented Laravel-permissions ( spatie) on the entire code base having front-end in Vue.js , enabling role and permission based access .\n• Created and managed cron jobs to automate routine tasks, increasing efficiency and freeing up time for other important responsibilities.\n• Integrated AWS Forecast service for forecasting product demand . Included preparation of datasets , model training and a lot of data wrangling. Enabling the business to streamline its inventory management process and make data-driven decisions based on accurate demand forecasting .\n• Integrated AWS Personalize service to provide a personalized user experience, improving engagement and increasing user satisfaction. The service allowed me to deliver tailored recommendations and content to users based on their unique preferences and behaviors.",
           color: "#0879bf",
         },
       ],
@@ -703,40 +705,16 @@ const experience = {
           color: "#D83B01",
         },
         {
-          title: "Developer Student Club Lead - ITU",
+          title: "Google Developer Student Club Lead - FAST LHR",
           company: "Google Developers",
           company_url:
-            "https://dsc.community.dev/information-technology-university/",
-          logo_path: "gdsc-itu.jpeg",
+            "https://gdsc.community.dev/fast-national-university-nuces-lahore-campus/",
+          logo_path: "dsc_logo.svg",
           duration: "July 2020 - July 2021",
-          location: "ITU, Lahore",
+          location: "FAST, Lahore",
           description:
-            "2nd ever lead from ITU and Pakistani DSC Chapter. Lead the club for one of the most prestigious universities in Pakistan. Conducted tonnes of events in order to make student the next big assests in the market. The program provides an ecosystem that encourages sharing of knowledge, learning and community building using the power of Google and its resources. Finally, it gives the exposure of mentoring people to become the next Google Developer Expert and preserving the chain.",
+            "2nd ever lead from FAST and Pakistani DSC Chapter. \nLead the club for one of the most prestigious universities in Pakistan. \nConducted tonnes of events in order to make student the next big assests in the market. \nThe program provides an ecosystem that encourages sharing of knowledge, learning and community building using the power of Google and its resources. \nFinally, it gives the exposure of mentoring people to become the next Google Developer Expert and preserving the chain.",
           color: "#4285F4",
-        },
-        {
-          title: "AWS Comunity Builder",
-          company: "AWS",
-          company_url:
-            "https://aws.amazon.com/developer/community/community-builders/",
-          logo_path: "awsblack.png",
-          duration: "Apr 2020 - May 2022",
-          location: "ITU, Lahore",
-          description:
-            "Enabling students to learn the cloud based cooporate technology usage using AWS. Hosted webinars based on AWS and cloud-based technologies,Conducted workshops and Community Day event powered by AWS in Pakistan.",
-          color: "#000000",
-        },
-
-        {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "October 2020 - PRESENT",
-          location: "Work From Home",
-          description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like StudentCodeIn, Hacktoberfest, flutter mobile apps, and MERN applications. These contributions include bug fixes, feature requests and formulating proper documentation for a project.",
-          color: "#181717",
         },
       ],
     },

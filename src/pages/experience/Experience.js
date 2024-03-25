@@ -18,10 +18,10 @@ class Experience extends Component {
           ‍<title>Experience </title>‍
           <meta
             name="description"
-            content="Abdullah has worked with many evolving startups as a Full Stack Developer, Designer and a Software Architect. Abdullah have also worked with some well established companies as Software Quality Assurance Trainee."
+            content="Moaz has worked with many evolving startups as a Full Stack Developer, Designer and a Software Architect. Moaz have also worked with some well established companies as Software Quality Assurance Trainee."
           />
-          <meta name="twitter:site" content="@MAbdullahCh10" />{" "}
-          <meta name="twitter:creator" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:site" content="@moazmaalik" />{" "}
+          <meta name="twitter:creator" content="@moazmaalik" />{" "}
           <meta name="twitter:title" content="Experience " />{" "}
           <meta
             property="twitter:url"
@@ -29,12 +29,12 @@ class Experience extends Component {
           />
           <meta
             name="twitter:description"
-            content="Abdullah has worked with many evolving startups as a Full Stack Developer, Designer and a Software Architect. Abdullah have also worked with some well established companies as Software Quality Assurance Trainee..."
+            content="Moaz has worked with many evolving startups as a Full Stack Developer, Designer and a Software Architect. Moaz have also worked with some well established companies as Software Quality Assurance Trainee..."
           />{" "}
           <meta property="og:title" content="Experience " />{" "}
           <meta
             property="og:description"
-            content="Abdullah has worked with many evolving startups as a Full Stack Developer, Designer and a Software Architect. Abdullah have also worked with some well established companies as Software Quality Assurance Trainee..."
+            content="Moaz has worked with many evolving startups as a Full Stack Developer, Designer and a Software Architect. Moaz have also worked with some well established companies as Software Quality Assurance Trainee..."
           />
           <meta property="og:url" content="https://abdullahch.dev/experience" />
           <meta property="og:locale" content="en_US" />

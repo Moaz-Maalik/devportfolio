@@ -5,7 +5,7 @@ class ExperienceCard extends Component {
   render() {
     const experience = this.props.experience;
     const theme = this.props.theme;
-    const imageWrapperStyles = this.props.experience.imageWrapperStyles ?? {};
+    // const imageWrapperStyles = this.props.experience.imageWrapperStyles ?? {};
     return (
       <div
         className={`experience-card `}

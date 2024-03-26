@@ -13,7 +13,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-Hit the live example, **[click here]https://www.abdullahch.dev/)**
+Hit the live example, **[click here]https://moaz-maalik-portfolio.netlify.app/)**
 
 ## Clone And Use 📋
 
@@ -22,7 +22,7 @@ Hit the live example, **[click here]https://www.abdullahch.dev/)**
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page.
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
   - ```python
-     git clone https://github.com/socialyadept/devportfolio.git
+     git clone https://github.com/Moaz-Maalik/devportfolio.git
     ```
   - This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
@@ -98,10 +98,6 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 ## illustrations 🍥
 
 - [UnDraw](https://undraw.co/illustrations)
-
-## Contributing 💡
-
-If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/mAbdullah1/therealmvp.dev/pulls) or [issue](https://github.com/mAbdullah1/therealmvp.dev/issues).
 
 ## Big shoutout to
 

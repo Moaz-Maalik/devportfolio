@@ -25,7 +25,7 @@ class Experience extends Component {
           <meta name="twitter:title" content="Experience " />{" "}
           <meta
             property="twitter:url"
-            content="https://abdullahch.dev/experience"
+            content="https://moaz-maalik-portfolio.netlify.app/experience"
           />
           <meta
             name="twitter:description"
@@ -36,7 +36,10 @@ class Experience extends Component {
             property="og:description"
             content="Moaz has worked with many evolving startups as a Full Stack Developer, Designer and a Software Architect. Moaz have also worked with some well established companies as Software Quality Assurance Trainee..."
           />
-          <meta property="og:url" content="https://abdullahch.dev/experience" />
+          <meta
+            property="og:url"
+            content="https://moaz-maalik-portfolio.netlify.app/experience"
+          />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
         </Helmet>

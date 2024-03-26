@@ -19,18 +19,24 @@ class Home extends Component {
           <meta name="twitter:site" content="@moazmaalik" />{" "}
           <meta name="twitter:creator" content="@moaz" />{" "}
           <meta name="twitter:title" content="Resume " />{" "}
-          <meta property="twitter:url" content="https://abdullahch.dev/home" />
+          <meta
+            property="twitter:url"
+            content="https://moaz-maalik-portfolio.netlify.app/home"
+          />
           <meta
             name="twitter:description"
             content="Moaz Maalik is a Full Stack Developer, Public Speaker, and a student mentor. Moaz is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at FAST"
           />
-          <meta property="og:title" content="Abdullah Ch " />{" "}
+          <meta property="og:title" content="Moaz Maalik " />{" "}
           <meta
             property="og:description"
             content="Moaz Maalik is a Full Stack Developer, Public Speaker, and a student mentor. Moaz is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at FAST"
           />
-          <meta property="og:url" content="https://abdullahch.dev/" />
-          <meta property="og:site_name" content="Abdullah Ch " />
+          <meta
+            property="og:url"
+            content="https://moaz-maalik-portfolio.netlify.app/"
+          />
+          <meta property="og:site_name" content="Moaz Maalik " />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
         </Helmet>

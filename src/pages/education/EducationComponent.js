@@ -22,12 +22,12 @@ class Education extends Component {
             name="description"
             content="My education history has always been an entertaining one, here's what's more about it..."
           />
-          <meta name="twitter:site" content="@MAbdullahCh10" />{" "}
-          <meta name="twitter:creator" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:site" content="@MoazMaalik" />{" "}
+          <meta name="twitter:creator" content="@MoazMaalik" />{" "}
           <meta name="twitter:title" content="Education " />{" "}
           <meta
             property="twitter:url"
-            content="https://abdullahch.dev/education"
+            content="https://moaz-maalik-portfolio.netlify.app/education"
           />
           <meta
             name="twitter:description"
@@ -38,7 +38,10 @@ class Education extends Component {
             property="og:description"
             content="My education history has always been an entertaining one, here's what's more about it..."
           />
-          <meta property="og:url" content="https://abdullahch.dev/education" />
+          <meta
+            property="og:url"
+            content="https://moaz-maalik-portfolio.netlify.app/education"
+          />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
         </Helmet>

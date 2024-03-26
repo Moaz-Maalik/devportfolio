@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Refresh Token Rotation",
-      "createdAt": "Feb 2023",
-      "url": "https://github.com/abdullah-ch/refresh-token-rotation",
-      "description": "This Repository implements Refresh Token Rotation Authentication System and Automatic Retry Mechanism of Failed APIs with Stale Access Tokens, using MERN (Mongo DB - Express - React - Node) Stack",
+      "name": "Cafe Zupas",
+      "createdAt": "Oct 2023",
+      "url": "https://cafezupas.com/",
+      "description": "Online Food odering website with over 70 restaurants in US ",
       "isFork": false,
       "languages": [
         {
@@ -20,65 +20,30 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
-      "name": "Web Socket Server",
-      "createdAt": "July 2020",
-      "url": "https://github.com/abdullah-ch/websockets-authentication-server",
-      "description": "This Repository implements an Authenticated Websocket Server built in Node Js along ws library and provide benefits like Heartbeat Monitoring of the Clients, Pinging Functionality and pruning dead clients",
+      "name": "Library Management System",
+      "createdAt": "July 2019",
+      "url": "https://github.com/Moaz-Maalik/Library-Management-System",
+      "description": "A Console based Java application for Library Management",
       "isFork": false,
-      "languages": [
-        {
-          "name": "nodeJS",
-          "iconifyClass": "logos-nodejs"
-        }
-      ]
+      "languages": []
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
-      "name": "Anime Tracker",
-      "createdAt": "Jun 2021",
-      "url": "https://github.com/abdullah-ch/Anime-Tracker-Web-App",
-      "description": "Anime Tracker App keeps you updated with anime world. You can search for any anime and get the result in the form of CSS Cards, clicking them will redirect you to the searched anime info. It has three rows. First one host the anime list which are released or updated that day, meaning you'll know which anime has been recently released, it changes day to day, dynamically. Second row shows the anime which have the highest score depending on MAL(It is like imdb for anime). Last row maps the anime which will be released in future and they are sorted on the hype created by their fans :P. Clicking on any of the cards which show their Info ! ",
+      "name": "University Student Assistant",
+      "createdAt": "Jun 2020",
+      "url": "https://github.com/Moaz-Maalik/University-Student-Assistant",
+      "description": "A Web-Application written in Spring-Boot",
       "isFork": false,
-      "languages": [
-        {
-          "name": "React",
-          "iconifyClass": "logos-react"
-        },
-        {
-          "name": "nodeJs",
-          "iconifyClass": "logos-nodejs"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        }
-      ]
+      "languages": []
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyND30NjcyNzQ=",
-      "name": "Chai Khana",
-      "createdAt": "May 2021",
-      "url": "https://www.chaayekhana.com/",
-      "description": "Chai Khana is a Pakistani Restaurant, famous for the rich flavors of Indian and Pakistani cuisine",
+      "name": "Rubiks Cube Solver Artificial Intelligence",
+      "createdAt": "May 2020",
+      "url": "https://github.com/Moaz-Maalik/Rubik-s-Cube-Solver-Artificial-Intelligence-",
+      "description": "A program that can solve a Rubik's Cube using Heuristic Search",
       "isFork": false,
-      "languages": [
-        {
-          "name": "React",
-          "iconifyClass": "logos-react"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        }
-      ]
+      "languages": []
     },
     {
       "id": "MDEwOlJlcG93aXRvcnkyND30NjcyNzQ=",
@@ -106,7 +71,7 @@
       "id": "MDEwOlJlc2G93aXRvcnkyND30NjcyNzQ=",
       "name": "Trade Hat",
       "createdAt": "Sep 2021",
-      "url": "https://app.tradehat.com/",
+      "url": "https://tradehat.com/",
       "description": "TradeHat provides backtesting ticker strategies, screening tickers and many other cool trading features",
       "isFork": false,
       "languages": [

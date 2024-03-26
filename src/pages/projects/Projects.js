@@ -20,25 +20,25 @@ class Projects extends Component {
           ‍<title>Projects</title>‍
           <meta
             name="description"
-            content="What's better when Abdullah's project speak for itself and explains his tech skills in a better way"
+            content="What's better when Moaz's project speak for itself and explains his tech skills in a better way"
           />
-          <meta name="twitter:site" content="@MAbdullahCh10" />{" "}
-          <meta name="twitter:creator" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:site" content="@Moazmaalik" />{" "}
+          <meta name="twitter:creator" content="@Moazmaalik" />{" "}
           <meta name="twitter:title" content="Projects " />{" "}
           <meta
             property="twitter:url"
-            content="https://github.com/abdullah-ch"
+            content="https://github.com/Moaz-Maalik"
           />
           <meta
             name="twitter:description"
-            content="What's better when Abdullah's project speak for itself and explains his tech skills in a better way"
+            content="What's better when Moaz's project speak for itself and explains his tech skills in a better way"
           />{" "}
           <meta property="og:title" content="Projects " />{" "}
           <meta
             property="og:description"
-            content="What's better when Abdullah's project speak for itself and explains his tech skills in a better way"
+            content="What's better when Moaz's project speak for itself and explains his tech skills in a better way"
           />
-          <meta property="og:url" content="https://github.com/abdullah-ch" />
+          <meta property="og:url" content="https://github.com/Moaz-Maalik" />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
         </Helmet>
@@ -78,7 +78,7 @@ class Projects extends Component {
         <Button
           text={"More Projects"}
           className="project-button"
-          href="https://github.com/abdullah-ch"
+          href="https://github.com/Moaz-Maalik"
           newTab={true}
           theme={theme}
         />

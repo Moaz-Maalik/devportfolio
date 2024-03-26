@@ -32,7 +32,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/abdullah-ch/",
+    link: "https://www.linkedin.com/in/moazmaalik/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -584,7 +584,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Volunteership",
   description:
-    "I have worked with evolving Start-ups as well as some well-established companies as a Full Stack JavaScript Developer. I am one of the top 10 percent Software Engineers on Stackoverflow and my questions and answers have impacted more than 5.8 million Developers all around the world !",
+    "An experienced Full Stack developer passionate about building performant, user-friendly web applications. Skilled in React Js Next Js , Vue Js , Node Js and committed to data-driven, collaborative development. Excited about staying up-to-date with the latest industry trends and technologies.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -609,7 +609,7 @@ const experience = {
         {
           title: "Full Stack Software Engineer (MERN/MEVN)",
           company: "Trade Hat, USA",
-          company_url: "https://app.quantbotics.com/",
+          company_url: "https://tradehat.com/",
           logo_path: "abdullah-work/tradehat.svg",
           imageWrapperStyles: {
             display: "flex",
@@ -766,17 +766,17 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "address_image.svg",
     description:
-      "I am available on almost every social media. And here is the fun part, I'm very responsive, so feel free to reach me out if you want a Freelance work to be done or need a speaker for your tech talk. You can hit me up and have a Tech Savvy advice too! I can help you with MERN / MEVN Stack and Opensource Development.",
+      "I am available on almost every social media. And here is the fun part, I'm very responsive, so feel free to reach me out if you want a Freelance work to be done or need a speaker for your tech talk. You can hit me up and have a Tech Savvy advice too! I can help you with MERN / MEVN / LAMP Stack and Opensource Development.",
   },
   addressSection: {
     title: "Address",
-    subtitle: "B/1325, Satellite Town, Rawalpindi, Punjab, Pakistan",
+    subtitle: "H2/68, Wapda Town, Lahore, Punjab, Pakistan",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+92 3124108473",
+    subtitle: "+92 3218466766",
   },
 };
 
